@@ -909,5 +909,27 @@ blockquote {
   
 }
 
+#niyati{
+  height: 61px;
+  width: 61px;
+}
+.socialLogo{
+  font-size: 40px;
+}
+.resume{
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.resume:hover {
+  background-color: RoyalBlue;
+}
+.project_pic{
+  height: 100%;
+  width: 500px;
+}
 
 /*# sourceMappingURL=maps/style.css.map */
